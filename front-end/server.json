@@ -1,0 +1,1092 @@
+{
+	"tags": [
+		{
+			"title": "React2",
+			"amountOfVideos": 145
+		},
+		{
+			"title": "Vue",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Angular",
+			"amountOfVideos": 135
+		},
+		{
+			"title": "JavaScript",
+			"amountOfVideos": 200
+		},
+		{
+			"title": "Python",
+			"amountOfVideos": 180
+		},
+		{
+			"title": "HTML",
+			"amountOfVideos": 160
+		},
+		{
+			"title": "CSS",
+			"amountOfVideos": 170
+		},
+		{
+			"title": "Bootstrap",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Sass",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Less",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Tailwind CSS",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Node.js",
+			"amountOfVideos": 130
+		},
+		{
+			"title": "Express.js",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "MongoDB",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "SQL",
+			"amountOfVideos": 125
+		},
+		{
+			"title": "PostgreSQL",
+			"amountOfVideos": 115
+		},
+		{
+			"title": "MySQL",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "GraphQL",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "REST API",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "JWT",
+			"amountOfVideos": 75
+		},
+		{
+			"title": "OAuth",
+			"amountOfVideos": 65
+		},
+		{
+			"title": "Docker",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "Kubernetes",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "AWS",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Azure",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Google Cloud",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "CI/CD",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Git",
+			"amountOfVideos": 150
+		},
+		{
+			"title": "GitHub",
+			"amountOfVideos": 140
+		},
+		{
+			"title": "GitLab",
+			"amountOfVideos": 130
+		},
+		{
+			"title": "Bitbucket",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Jira",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Trello",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "Scrum",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Kanban",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "Agile",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "Waterfall",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "DevOps",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Microservices",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "Serverless",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "Containers",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "Architecture",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Design Patterns",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Algorithms",
+			"amountOfVideos": 130
+		},
+		{
+			"title": "Data Structures",
+			"amountOfVideos": 125
+		},
+		{
+			"title": "Machine Learning",
+			"amountOfVideos": 140
+		},
+		{
+			"title": "Deep Learning",
+			"amountOfVideos": 135
+		},
+		{
+			"title": "Natural Language Processing",
+			"amountOfVideos": 125
+		},
+		{
+			"title": "Computer Vision",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Robotics",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "IoT",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "Blockchain",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "Cryptocurrency",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "Cybersecurity",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Penetration Testing",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "Encryption",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Decryption",
+			"amountOfVideos": 75
+		},
+		{
+			"title": "Networking",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "TCP/IP",
+			"amountOfVideos": 115
+		},
+		{
+			"title": "DNS",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "HTTP",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "HTTPS",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "FTP",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "SSH",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "VPN",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "Firewalls",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Load Balancing",
+			"amountOfVideos": 75
+		},
+		{
+			"title": "Microcontrollers",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "React",
+			"amountOfVideos": 145
+		},
+		{
+			"title": "Vue",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Angular",
+			"amountOfVideos": 135
+		},
+		{
+			"title": "JavaScript",
+			"amountOfVideos": 200
+		},
+		{
+			"title": "Python",
+			"amountOfVideos": 180
+		},
+		{
+			"title": "HTML",
+			"amountOfVideos": 160
+		},
+		{
+			"title": "CSS",
+			"amountOfVideos": 170
+		},
+		{
+			"title": "Bootstrap",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Sass",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Less",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Tailwind CSS",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Node.js",
+			"amountOfVideos": 130
+		},
+		{
+			"title": "Express.js",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "MongoDB",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "SQL",
+			"amountOfVideos": 125
+		},
+		{
+			"title": "PostgreSQL",
+			"amountOfVideos": 115
+		},
+		{
+			"title": "MySQL",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "GraphQL",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "REST API",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "JWT",
+			"amountOfVideos": 75
+		},
+		{
+			"title": "OAuth",
+			"amountOfVideos": 65
+		},
+		{
+			"title": "Docker",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "Kubernetes",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "AWS",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Azure",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Google Cloud",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "CI/CD",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Git",
+			"amountOfVideos": 150
+		},
+		{
+			"title": "GitHub",
+			"amountOfVideos": 140
+		},
+		{
+			"title": "GitLab",
+			"amountOfVideos": 130
+		},
+		{
+			"title": "Bitbucket",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Jira",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Trello",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "Scrum",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Kanban",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "Agile",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "Waterfall",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "DevOps",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Microservices",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "Serverless",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "Containers",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "Architecture",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Design Patterns",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Algorithms",
+			"amountOfVideos": 130
+		},
+		{
+			"title": "Data Structures",
+			"amountOfVideos": 125
+		},
+		{
+			"title": "Machine Learning",
+			"amountOfVideos": 140
+		},
+		{
+			"title": "Deep Learning",
+			"amountOfVideos": 135
+		},
+		{
+			"title": "Natural Language Processing",
+			"amountOfVideos": 125
+		},
+		{
+			"title": "Computer Vision",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Robotics",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "IoT",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "Blockchain",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "Cryptocurrency",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "Cybersecurity",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Penetration Testing",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "Encryption",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Decryption",
+			"amountOfVideos": 75
+		},
+		{
+			"title": "Networking",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "TCP/IP",
+			"amountOfVideos": 115
+		},
+		{
+			"title": "DNS",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "HTTP",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "HTTPS",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "FTP",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "SSH",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "VPN",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "Firewalls",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Load Balancing",
+			"amountOfVideos": 75
+		},
+		{
+			"title": "Microcontrollers",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "React",
+			"amountOfVideos": 145
+		},
+		{
+			"title": "Vue",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Angular",
+			"amountOfVideos": 135
+		},
+		{
+			"title": "JavaScript",
+			"amountOfVideos": 200
+		},
+		{
+			"title": "Python",
+			"amountOfVideos": 180
+		},
+		{
+			"title": "HTML",
+			"amountOfVideos": 160
+		},
+		{
+			"title": "CSS",
+			"amountOfVideos": 170
+		},
+		{
+			"title": "Bootstrap",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Sass",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Less",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Tailwind CSS",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Node.js",
+			"amountOfVideos": 130
+		},
+		{
+			"title": "Express.js",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "MongoDB",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "SQL",
+			"amountOfVideos": 125
+		},
+		{
+			"title": "PostgreSQL",
+			"amountOfVideos": 115
+		},
+		{
+			"title": "MySQL",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "GraphQL",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "REST API",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "JWT",
+			"amountOfVideos": 75
+		},
+		{
+			"title": "OAuth",
+			"amountOfVideos": 65
+		},
+		{
+			"title": "Docker",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "Kubernetes",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "AWS",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Azure",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Google Cloud",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "CI/CD",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Git",
+			"amountOfVideos": 150
+		},
+		{
+			"title": "GitHub",
+			"amountOfVideos": 140
+		},
+		{
+			"title": "GitLab",
+			"amountOfVideos": 130
+		},
+		{
+			"title": "Bitbucket",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Jira",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Trello",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "Scrum",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Kanban",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "Agile",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "Waterfall",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "DevOps",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Microservices",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "Serverless",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "Containers",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "Architecture",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Design Patterns",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Algorithms",
+			"amountOfVideos": 130
+		},
+		{
+			"title": "Data Structures",
+			"amountOfVideos": 125
+		},
+		{
+			"title": "Machine Learning",
+			"amountOfVideos": 140
+		},
+		{
+			"title": "Deep Learning",
+			"amountOfVideos": 135
+		},
+		{
+			"title": "Natural Language Processing",
+			"amountOfVideos": 125
+		},
+		{
+			"title": "Computer Vision",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Robotics",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "IoT",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "Blockchain",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "Cryptocurrency",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "Cybersecurity",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Penetration Testing",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "Encryption",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Decryption",
+			"amountOfVideos": 75
+		},
+		{
+			"title": "Networking",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "TCP/IP",
+			"amountOfVideos": 115
+		},
+		{
+			"title": "DNS",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "HTTP",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "HTTPS",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "FTP",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "SSH",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "VPN",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "Firewalls",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Load Balancing",
+			"amountOfVideos": 75
+		},
+		{
+			"title": "Microcontrollers",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "React",
+			"amountOfVideos": 145
+		},
+		{
+			"title": "Vue",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Angular",
+			"amountOfVideos": 135
+		},
+		{
+			"title": "JavaScript",
+			"amountOfVideos": 200
+		},
+		{
+			"title": "Python",
+			"amountOfVideos": 180
+		},
+		{
+			"title": "HTML",
+			"amountOfVideos": 160
+		},
+		{
+			"title": "CSS",
+			"amountOfVideos": 170
+		},
+		{
+			"title": "Bootstrap",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Sass",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Less",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "Tailwind CSS",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Node.js",
+			"amountOfVideos": 130
+		},
+		{
+			"title": "Express.js",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "MongoDB",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "SQL",
+			"amountOfVideos": 125
+		},
+		{
+			"title": "PostgreSQL",
+			"amountOfVideos": 115
+		},
+		{
+			"title": "MySQL",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "GraphQL",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "REST API",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "JWT",
+			"amountOfVideos": 75
+		},
+		{
+			"title": "OAuth",
+			"amountOfVideos": 65
+		},
+		{
+			"title": "Docker",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "Kubernetes",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "AWS",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Azure",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Google Cloud",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "CI/CD",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Git",
+			"amountOfVideos": 150
+		},
+		{
+			"title": "GitHub",
+			"amountOfVideos": 140
+		},
+		{
+			"title": "GitLab",
+			"amountOfVideos": 130
+		},
+		{
+			"title": "Bitbucket",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Jira",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Trello",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "Scrum",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Kanban",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "Agile",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "Waterfall",
+			"amountOfVideos": 70
+		},
+		{
+			"title": "DevOps",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Microservices",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "Serverless",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "Containers",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "Architecture",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Design Patterns",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "Algorithms",
+			"amountOfVideos": 130
+		},
+		{
+			"title": "Data Structures",
+			"amountOfVideos": 125
+		},
+		{
+			"title": "Machine Learning",
+			"amountOfVideos": 140
+		},
+		{
+			"title": "Deep Learning",
+			"amountOfVideos": 135
+		},
+		{
+			"title": "Natural Language Processing",
+			"amountOfVideos": 125
+		},
+		{
+			"title": "Computer Vision",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "Robotics",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "IoT",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "Blockchain",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "Cryptocurrency",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "Cybersecurity",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "Penetration Testing",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "Encryption",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Decryption",
+			"amountOfVideos": 75
+		},
+		{
+			"title": "Networking",
+			"amountOfVideos": 120
+		},
+		{
+			"title": "TCP/IP",
+			"amountOfVideos": 115
+		},
+		{
+			"title": "DNS",
+			"amountOfVideos": 110
+		},
+		{
+			"title": "HTTP",
+			"amountOfVideos": 105
+		},
+		{
+			"title": "HTTPS",
+			"amountOfVideos": 100
+		},
+		{
+			"title": "FTP",
+			"amountOfVideos": 95
+		},
+		{
+			"title": "SSH",
+			"amountOfVideos": 90
+		},
+		{
+			"title": "VPN",
+			"amountOfVideos": 85
+		},
+		{
+			"title": "Firewalls",
+			"amountOfVideos": 80
+		},
+		{
+			"title": "Load Balancing",
+			"amountOfVideos": 75
+		},
+		{
+			"title": "Microcontrollers",
+			"amountOfVideos": 70
+		}
+	]
+}
